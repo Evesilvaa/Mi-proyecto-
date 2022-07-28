@@ -1,0 +1,15 @@
+app-social{
+  float: right;
+  margin-top: 1px;
+}
+
+.fotodeperfil {
+position: fixed;
+border-radius: 50%;
+top: 200px;
+}
+
+.fotodeportada {
+text-align: center;
+
+}

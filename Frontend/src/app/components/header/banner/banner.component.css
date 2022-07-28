@@ -1,0 +1,28 @@
+.conteiner{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.redes{
+    margin-right: 0.5em;
+}
+
+#APLogo {
+    width: 170px;
+    background-color: lightgray;
+
+
+}
+img {
+    width: 50px;
+    background-color: lightgray;
+
+}
+app-social {
+    float: right;
+}
+
+.btn{
+    border-width: medium;
+}
+
