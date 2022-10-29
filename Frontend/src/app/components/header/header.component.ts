@@ -17,7 +17,7 @@ constructor(private datosPorfolio:PorfolioService) { }
   
 
   ngOnInit(): void {
-    this.datosPorfolio.obtenerDatos();
+    
      }
 
     
